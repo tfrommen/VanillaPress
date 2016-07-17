@@ -11,6 +11,7 @@ var vanillaPress = {
 	init: function() {
 		this.initializeProperties();
 		this.addInitialEventListeners();
+		displayAllPosts();
 	}
 };
 
