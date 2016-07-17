@@ -1,25 +1,18 @@
-
 /**
- * Main app file.  Initializes app components.
+ * Main app file. Initializes app components.
  */
-
 
 /**
  * The main app object.
- *
+ * @namespace
  */
 var vanillaPress = {
-
-  init: function() {
-
-    // Add any functions here you want
-    // to run to start the application
-    console.log( jsonData );
-
-  }
-
+	/**
+	 * Initializes the app.
+	 */
+	init: function() {
+	}
 };
 
+// Initialize the app.
 vanillaPress.init();
-
-// Add your custom code starting here:
