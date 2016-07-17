@@ -1,3 +1,7 @@
+/**
+ * Array of post objects.
+ * @type {Object[]}
+ */
 var posts = [
 		{
 			"id": 1,
@@ -33,7 +37,7 @@ var posts = [
 			"slug": "json-data",
 			"type": "posts",
 			"title": "JSON Data!",
-			"content": "<p>So, with the REST API it is posible to pull in WordPress data as pure JSON. Now I'm figuring out what to do with the data.</p>"
+			"content": "<p>So, with the REST API it is possible to pull in WordPress data as pure JSON. Now I'm figuring out what to do with the data.</p>"
 		},
 		{
 			"id": 5,
@@ -44,5 +48,4 @@ var posts = [
 			"title": "JavaScript Project",
 			"content": "<p>VanillaPress is the first project in the JavaScript for WordPress Master Course.</p>"
 		}
-	],
-	jsonData = JSON.stringify( posts );
+	];
