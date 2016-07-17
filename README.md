@@ -12,6 +12,10 @@ Live demo available at [https://tfrommen.github.io/VanillaPress/](https://tfromm
 
 ## Changelog
 
+### 0.1.1
+
+- Automatically display all available posts on initial page load.
+
 ### 0.1.0
 
 - Initial release.
